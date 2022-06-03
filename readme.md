@@ -13,7 +13,9 @@ git status
 git remote add origin https://github.com/HectorMarcos/repo03.git
 git branch -M main
 git push -u origin main
+```
 
+```
 git branch "hector03062022"
 git branch
 git checkout "hector03062022"
