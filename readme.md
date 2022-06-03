@@ -27,5 +27,4 @@ git checkout main
 git merge hector03062022
 git branch -d  hector03062022
 git push
-
 ```
